@@ -1,2 +1,2 @@
-# retro_store
-Custom Store Plugin for servers run by me
+# Cell Mates
+Allows you to pick who is goign to be your cell buddy
